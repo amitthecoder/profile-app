@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="amit_kumar">Amit Kumar</string>
+    <string name="username">amitthecoder</string>
+    <string name="bio">As an Android app developer, I have a passion for creating beautiful and functional apps for users. I write code primarily in Kotlin, which is a popular programming language for Android development. My focus is on creating a visually appealing and intuitive user experience that makes using the app a pleasure.</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="user_information">User Information</string>
+    <string name="username_">Username</string>
+    <string name="amitthecoder">amitthecoder</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="_21">21</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="_07_02_2003">07/02/2003</string>
+    <string name="mobile">Mobile</string>
+    <string name="_91_9000000009">+91 9000000009</string>
+    <string name="email">Email</string>
+    <string name="axxxxxxa_gmail_com">axxxxxxa@gmail.com</string>
+    <string name="social_media">Social Media</string>
+</resources>
