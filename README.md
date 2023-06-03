@@ -1,1 +1,3 @@
-[# profile-app My Portfolio App.](https://github.com/amitthecoder/profile-app/blob/main/Demo%20Video.mp4)
+
+https://github.com/amitthecoder/profile-app/assets/104451914/479c963b-5147-4133-9abe-8be8daed2edd
+
